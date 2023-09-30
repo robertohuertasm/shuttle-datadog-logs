@@ -1,6 +1,6 @@
 # shuttle-datadog-logs
 
-[![Rust](static/shuttle-datadog.png)](https://robertohuertas.com/2023/09/30/shuttle-datadog-logs)
+[![Rust](https://github.com/robertohuertasm/shuttle-datadog-logs/blob/old-version/static/shuttle-datadog.png?raw=true)](https://robertohuertas.com/2023/09/30/shuttle-datadog-logs)
 
 This project shows how to use a [Shuttle](https://shuttle.rs)-powered [Axum](https://github.com/tokio-rs/axum) REST API that makes use of [Datadog](https://docs.datadoghq.com/logs/log_collection/) to manage logs.
 
