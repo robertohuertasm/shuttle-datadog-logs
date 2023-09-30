@@ -10,7 +10,7 @@ We will be using the [dd-tracing-layer](https://crates.io/crates/dd-tracing-laye
 
 This project is a companion to the blog post: [Send the logs of your Shuttle-powered backend to Datadog](https://robertohuertas.com/2023/09/30/shuttle-datadog-logs) blog post.
 
-Also available in [dev.to](https://dev.to/robertohuertasm/send-the-logs-of-your-shuttle-powered-backend-to-datadog-3imo) and [Medium](https://robertohuertasm.medium.com/send-the-logs-of-your-shuttle-powered-backend-to-datadog-9508dab9dc71).
+Also available in [dev.to](https://dev.to/robertohuertasm/send-the-logs-of-your-shuttle-powered-backend-to-datadog-156d) and [Medium](https://robertohuertasm.medium.com/send-the-logs-of-your-shuttle-powered-backend-to-datadog-9508dab9dc71).
 
 ## Endpoints
 
